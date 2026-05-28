@@ -1,0 +1,28 @@
+Package: uwesBR
+Title: Calcula Escores e Classificacoes do UWES-9 e UWES-17
+Version: 0.1.0
+Authors@R: 
+    person(
+        "Alessandro",
+        "Corrêa",
+        email = "alessandro.correa@ifpa.edu.br",
+        role = c("aut", "cre")
+    )
+Description: 
+    Calcula escores das dimensões Vigor, Dedicacao,
+    Absorcao e Engajamento no Trabalho a partir das
+    escalas UWES-9 e UWES-17. O pacote também realiza
+    classificacoes normativas segundo referencias
+    disponiveis no pacote, incluindo as normas
+    brasileiras propostas por Angst et al. (2009).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+Suggests:
+    testthat (>= 3.0.0),
+    tibble
+Config/testthat/edition: 3
+URL: https://github.com/alessand22/uwesBR
+BugReports: https://github.com/alessand22/uwesBR/issues
+Config/roxygen2/version: 8.0.0
