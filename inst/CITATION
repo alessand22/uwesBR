@@ -1,0 +1,19 @@
+citHeader("To cite uwesBR in publications use:")
+
+citEntry(
+  entry    = "Manual",
+  title    = "uwesBR: Calculo de Escores do UWES",
+  author   = personList(
+    as.person("Alessandro de Castro Corrêa")
+  ),
+  year     = "2026",
+  note     = "R package version 0.1.0",
+  url      = "https://github.com/alessand22/decisionLab",
+  textVersion =
+    paste(
+      "Corrêa, A. (2026).",
+      "uwesBR: Calculo de Escores do UWES.",
+      "R package version 0.1.0.",
+      "https://github.com/alessand22/uwesBR"
+    )
+)
