@@ -8,7 +8,7 @@ citEntry(
   ),
   year     = "2026",
   note     = "R package version 0.1.0",
-  url      = "https://github.com/alessand22/decisionLab",
+  url      = "https://github.com/alessand22/uwesBR",
   textVersion =
     paste(
       "Corrêa, A. (2026).",
